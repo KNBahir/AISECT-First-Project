@@ -1,1 +1,6 @@
 Hii, This is Bahir. Testing my first GIT.
+
+Command:
+1. git add ./BahirKN.txt
+2. git commit -m "First comit"
+3. git push
